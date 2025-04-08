@@ -1,8 +1,6 @@
-# -Certificates
-
 # Certificados
 
-📄 Desenvolvimento Flutter avançado  
+📄 Desenvolvimento Flutter avançado
 🔗 [Ver certificado](https://www.udemy.com/certificate/UC-3466419f-3767-4db8-b930-351edd986eb4/)
 
 📄 Desenvolvimento Android em Java e Kotlin
